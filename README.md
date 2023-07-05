@@ -20,7 +20,9 @@ In the project directory, run
 
 ## Video Demo
 
-https://github.com/JanelleGage/simple-game/assets/116291364/b71452b6-e791-42a6-9f16-b3f149c0c3b4
+https://github.com/JanelleGage/simple-game/assets/116291364/cf2c2c90-e455-468f-b138-d13c3b6c1aa6
+
+
 
 
 
