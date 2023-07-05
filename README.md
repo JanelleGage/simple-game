@@ -11,12 +11,12 @@ In the project directory, run
 
 ### How to Play
 
-The game is played on a 3x3 grid.
-One Player is X and the other is O. 
-Players take turns putting their marks in empty squares.
-The first player to get 3 marks in a row (up, down, across, or diagonally) is the winner.
-Additionally, Players can jump back to a previous move if they want to.
-When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+- The game is played on a 3x3 grid.
+- One Player is X and the other is O. 
+- Players take turns putting their marks in empty squares.
+- The first player to get 3 marks in a row (up, down, across, or diagonally) is the winner.
+- Additionally, Players can jump back to a previous move if they want to.
+- When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
 
 
